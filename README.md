@@ -1,6 +1,11 @@
 # Dashboard
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.6.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.6. using font awesome library and Highcharts library.
+
+## Run `npm install` to install node packages
+
+## To run the app server
+Run `ng serve`
 
 ## Development server
 

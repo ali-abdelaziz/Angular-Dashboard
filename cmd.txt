@@ -1,0 +1,7 @@
+ng serve
+to run the app server
+*************************************************************
+to add the highcharts
+`npm i angular-highcharts@version`
+`npm install highcharts-angular --save`
+and then `import the HighchartsChartModule inside imports array in app.module.ts`
